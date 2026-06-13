@@ -114,6 +114,6 @@ android/
 
 - **Curso:** Sistemas de Informação
 - **Instituição:** Centro Universitário Mater Dei — UNIMATER
-- **Disciplina:** Desenvolvimento Mobile
+- **Disciplina:** Desenvolvimento de Aplicativos Móveis
 - **Aluno:** Thiago Oliveira
-- **Orientador:** Prof. Me. Libório Júnior de Oliveira
+- **Orientador:** Prof. Giovani Fabris Marcarini
